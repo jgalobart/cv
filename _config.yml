@@ -1,1 +1,8 @@
+title: Jordi Galobart Salvat
 
+description: UX Consultant, Full Stack developer
+
+theme: jekyll-theme-minimal 
+
+plugins:
+  - jekyll-seo-tag # Add SEO plugin
