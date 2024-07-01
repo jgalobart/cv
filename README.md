@@ -22,36 +22,36 @@ With over 24 years of experience in the tech industry, I bring a unique blend of
 
 **Sep 2021 - Present**  
 Full stack development Master director  
-Nuclio Digital School  
+[Nuclio Digital School](https://www.nuclio.school)  
 Barcelona, Catalonia, Spain · Remote
 
 **Sep 2021 - Present**  
 Web design teacher  
-BAU, Centre Universitari d'Arts i Disseny  
+[BAU, Centre Universitari d'Arts i Disseny](https://www.baued.es)  
  · 2 yrs 11 mos  
 Barcelona, Catalonia, Spain · On-site
 
 
 **Sep 2021 - Present**  
 Web design teacher  
-Institut Quimic de Sarria Cets  
+[Institut Quimic de Sarria CETS](https://www.iqs.url.edu)  
 Barcelona, Catalonia, Spain · On-site
 
 **Oct 2004 - Present**  
 Freelance UX Designer & Full stack developer  
-Galu.cat  
+[Galu.cat](https://www.galu.cat)  
 
 **Oct 2004 - Present**  
 UX Associate professor  
-La Salle Campus Barcelona  
+[La Salle Campus Barcelona](https://www.salleurl.edu)  
 UX professor at
 
 - PUX (Postgrau en Experiència d'usuari)
 - MCDEM (Master Universitari en creació multimèdia i Serious Games)
 
 **Jul 2019 - May 2020**  
-Tech Product Manager
-Marfeel  
+Tech Product Manager  
+[Marfeel](https://www.marfeel.com)  
 Barcelona Area, Spain
 
 **Jul 2017 - Jul 2019**  
@@ -66,14 +66,14 @@ Sant Cugat del VallèsSant Cugat del Vallès
 Developing product strategy. Listening to our customers, and providing solutions to optimize Conversion Rates and user's happiness.
 
 **Nov 2014 - Sep 2016**  
-Google  
 UX Mentor  
+[Google](https://www.google.com)  
 Barcelona  
 UX mentor @Google Launchpad, a one-week pre-incubation program for early stage startups focused on subjects including user interface, product strategy & technology, marketing, business development and presentation skills.
 
 **Feb 2013 - May 2015**  
 UX Manager  
-Bodas.net  
+[Bodas.net](https://www.bodas.net)  
 Sant Cugat del Vallès  
 Creating awesome features for weddings planner web.
 
