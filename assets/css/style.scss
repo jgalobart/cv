@@ -7,6 +7,10 @@ body {
   font-family: "Roboto Slab"
 }
 
-a {
+h2, a {
   color: #F4A202;
+}
+
+.view, footer {
+  display:none;
 }
