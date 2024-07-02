@@ -90,7 +90,7 @@ Involved on many projects of company: infojobs, emagister, cosasdebarcos, solost
 
 **Nautes.cat**  
 ![Nautes.cat](https://www.nautes.cat/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnoimg.96687681.png&w=640&q=75)  
-Website to find family-friendly plans in Catalunya
+Website to find family-friendly plans in Catalunya  
 [Nautes.cat](https://www.nautes.cat)
 
 ## 🧑‍🎓 Education
