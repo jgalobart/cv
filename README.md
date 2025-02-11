@@ -30,7 +30,7 @@ Web design teacher
 [BAU, Centre Universitari d'Arts i Disseny](https://www.baued.es)  
 Introduction to web design: HTML, CSS & JS
 
-**Sep 2021 - Present**  
+**Sep 2021 - Dec 2023**  
 Web design teacher  
 [Institut Quimic de Sarria CETS](https://www.iqs.url.edu)  
 Introduction to web design: HTML, CSS & JS
