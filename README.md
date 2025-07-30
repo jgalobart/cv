@@ -95,10 +95,10 @@ Involved on many projects of company: infojobs, emagister, cosasdebarcos, solost
 Website to find family-friendly plans in Catalunya  
 [Nautes.cat](https://www.nautes.cat)
 
-![Euribor.news](https://www.nautes.cat/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnoimg.96687681.png&w=640&q=75)  
+![Euribor.news](assets/css/euribor.png)  
 **Euribor.news**  
 Website to track Euribor rates & optimize mortgages
-[Nautes.cat](https://www.nautes.cat)
+[Euribor.news](https://www.euribor.news)
 
 ## 🧑‍🎓 Education
 
