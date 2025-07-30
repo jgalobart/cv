@@ -57,6 +57,13 @@ UX professor at
 Freelance UX Designer & Full stack developer  
 [Galu.cat](https://www.galu.cat)  
 I am dedicated to making digital projects a reality (design, frontend and backend of websites and mobile applications), defining strategies, taking care of the user experience and SEO.
+Some of the projects I worked as freelance:
+- Product/Tech Advisor at Rightboat.com (2023-2024)
+- Product/Tech Advisor at Proveedores.com (2021-2022)
+- Tech Advisor at Gastronomus (current)
+- Tech Advisor at Inforesidencias.com (current)
+- Tech Advisor at elMerkat (current)
+- Redesign of Hastee.com (2023)
 
 **Jul 2019 - May 2020**  
 Tech Product Manager / Engineer Manager 
